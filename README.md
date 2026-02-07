@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript and Dsa with java**
 
-- 👨‍💻 All of my projects are available at [https://vedgohel15.vercel.app/](https://vedgohel15.vercel.app/)
+- 👨‍💻 All of my projects are available at [vedgohel](https://vedgohel15.vercel.app/).
 
 - 📫 How to reach me **vedgohel85@gmail.com**
 
